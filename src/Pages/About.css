@@ -1,0 +1,9 @@
+.button-data {
+    
+    background: linear-gradient(90deg, #3f51b5, transparent) #2196f3;
+    transition: background-color 1s;
+  }
+  .button-data:hover, .button-data:focus {
+    background-color: #e91e63;
+    color: #fff;
+  }

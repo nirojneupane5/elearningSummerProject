@@ -1,0 +1,38 @@
+.chat-message-sender{
+    background-color: blue;
+    border-radius: 30px;
+    color: white;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    display: inline-block;
+    padding: 5px;
+  }
+  
+  .chat-user-sender{
+    background-color: green;
+    border-radius: 30px;
+    color: white;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    display: inline-block;
+    padding: 5px;
+  }
+  .chat-message-receiver{
+    background-color: gray;
+    border-radius: 30px;
+    color: white;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    display: inline-block;
+    padding: 5px;
+  }
+  
+  .chat-user-receiver{
+    background-color: green;
+    border-radius: 30px;
+    color: white;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    display: inline-block;
+    padding: 5px;
+  }

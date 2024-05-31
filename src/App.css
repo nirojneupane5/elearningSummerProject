@@ -1,0 +1,52 @@
+.nav{
+  background: linear-gradient(90deg, rgba(75,124,135,1) 25%, rgba(2,0,36,1) 86%);
+}
+#logo{
+  list-style: none;
+  color: white;
+}
+
+#list li{
+  display: inline-block;
+}
+
+
+#list li a{
+  text-decoration: none;
+  color:white;
+  padding: 10px 15px;
+  display: block;
+}
+
+
+#list  li a:hover{
+  background-color: blueviolet;
+}
+
+.active{
+  background-color: blueviolet;
+}
+
+#card{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+#card:hover{
+  box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+}
+
+#btn-2{
+  background: linear-gradient(0deg, #ff9933 0%, #ff3300 );
+  color: white;
+  border-radius: 10px;
+  border:none;
+}
+#btn-2:hover{
+  background: linear-gradient(0deg, #f08111 0%, #f00606 );
+  color: white;
+  transition: 0.3s;
+}
+tr:hover{
+  background-color: azure;
+  color: black;
+}
